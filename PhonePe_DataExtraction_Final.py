@@ -47,7 +47,7 @@ from PIL import Image
 
 
 #agreegated transaction df
-path="/Users/palaniappankannan/Documents/Technical/R_and_R_Consultant/Notes/Guvi_IIT_ Data_Science_Course/Main Course/Projects/PhonePe/pulse/data/aggregated/transaction/country/india/state/"
+path="/Users/        "
 
 Agg_state_list=os.listdir(path)
 Agg_state_list
@@ -118,8 +118,8 @@ df_Agg_trans.isnull().sum()
 
 
 #agreegated users df
-path="/Users/palaniappankannan/Documents/Technical/R_and_R_Consultant/Notes/Guvi_IIT_ Data_Science_Course/Main Course/Projects/PhonePe/pulse/data/aggregated/user/country/india/state/"
-#C:\Users\Palaniappan\Documents\Technical\R and R Consultant\Notes\Guvi IIT Data Science Course\Main Course\Projects\PhonePe\pulse-master\data\aggregated\user\country\india\state
+path="/Users/   "
+
 Agg_state_list=os.listdir(path)
 Agg_state_list
 #<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>#
@@ -185,8 +185,8 @@ df_Agg_user.isnull().sum()
 
 
 #map transaction df
-path="/Users/palaniappankannan/Documents/Technical/R_and_R_Consultant/Notes/Guvi_IIT_ Data_Science_Course/Main Course/Projects/PhonePe/pulse/data/map/transaction/hover/country/india/state/"
-#C:\Users\Palaniappan\Documents\Technical\R and R Consultant\Notes\Guvi IIT Data Science Course\Main Course\Projects\PhonePe\pulse-master\data\map\transaction\hover\country\india\state
+path="/Users/     "
+
 Agg_state_list=os.listdir(path)
 Agg_state_list
 #Agg_state_list--> to get the list of states in India
@@ -253,7 +253,7 @@ df_Map_trans.isnull().sum()
 
 
 #map user df
-path="/Users/palaniappankannan/Documents/Technical/R_and_R_Consultant/Notes/Guvi_IIT_ Data_Science_Course/Main Course/Projects/PhonePe/pulse/data/map/user/hover/country/india/state/"
+path="/Users/     "
 
 Agg_state_list=os.listdir(path)
 Agg_state_list
@@ -322,8 +322,8 @@ df_Map_user.isnull().sum()
 
 
 #top transaction df
-path="/Users/palaniappankannan/Documents/Technical/R_and_R_Consultant/Notes/Guvi_IIT_ Data_Science_Course/Main Course/Projects/PhonePe/pulse/data/top/transaction/country/india/state/"
-#C:\Users\Palaniappan\Documents\Technical\R and R Consultant\Notes\Guvi IIT Data Science Course\Main Course\Projects\PhonePe\pulse-master\data\top\transaction\country\india\state
+path="/Users/      "
+
 Agg_state_list=os.listdir(path)
 Agg_state_list
 #Agg_state_list--> to get the list of states in India
@@ -384,8 +384,8 @@ df_Top_trans.isnull().sum()
 
 
 #top users dist df
-path="/Users/palaniappankannan/Documents/Technical/R_and_R_Consultant/Notes/Guvi_IIT_ Data_Science_Course/Main Course/Projects/PhonePe/pulse/data/top/user/country/india/state/"
-#C:\Users\Palaniappan\Documents\Technical\R and R Consultant\Notes\Guvi IIT Data Science Course\Main Course\Projects\PhonePe\pulse-master\data\top\user\country\india\state
+path="/Users/    "
+
 Agg_state_list=os.listdir(path)
 Agg_state_list
 #Agg_state_list--> to get the list of states in India
@@ -439,8 +439,8 @@ df_Top_user_dist.isnull().sum()
 
 
 #top users pincode df
-path="/Users/palaniappankannan/Documents/Technical/R_and_R_Consultant/Notes/Guvi_IIT_ Data_Science_Course/Main Course/Projects/PhonePe/pulse/data/top/user/country/india/state/"
-#C:\Users\Palaniappan\Documents\Technical\R and R Consultant\Notes\Guvi IIT Data Science Course\Main Course\Projects\PhonePe\pulse-master\data\top\user\country\india\state
+path="/Users/      "
+
 Agg_state_list=os.listdir(path)
 Agg_state_list
 #Agg_state_list--> to get the list of states in India
