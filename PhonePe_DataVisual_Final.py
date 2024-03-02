@@ -16,8 +16,8 @@ from PIL import Image
 #FLUSH PRIVILEGES;
 
 # Connect to the database
-cnx = pymysql.connect(user='root',
-                      password='Password',
+cnx = pymysql.connect(user='      ',
+                      password='     ',
                       host='127.0.0.1',
                       database='phonepe_db')
 cursor = cnx.cursor()
