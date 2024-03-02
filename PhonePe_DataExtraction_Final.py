@@ -509,8 +509,8 @@ df_Top_user_pincode.to_csv('Top_trans_pincode.csv',index=False)
 # Create new schema ‘phonepe_db’ from Workbench.
 # Connect to mysql dB
 cnx = mysql.connector.connect(
-    user='root',
-    password='Password',
+    user='    ',
+    password='     ',
     host='127.0.0.1',
     database='phonepe_db'
 )
