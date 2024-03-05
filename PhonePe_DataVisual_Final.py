@@ -11,10 +11,6 @@ import os
 os.environ["GIT_PYTHON_REFRESH"] = "quiet"
 from PIL import Image
 
-#Connect to mysql:
-#ALTER USER 'your_username'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your_password';
-#FLUSH PRIVILEGES;
-
 # Connect to the database
 cnx = pymysql.connect(user='      ',
                       password='     ',
